@@ -33,7 +33,7 @@
 
 **Score rationale:** 1/5
 
-**Named attacker (from partner challenge):** everything and everyone
+**Named attacker (from partner challenge):** everything and everyone. there are many Payment Gateway service providers and banks providing the service and enhanced features are competitive.
 
 ---
 
@@ -45,7 +45,7 @@
 >
 > 1. Attack:
 > 2. Wedge:
-> 3. Why users switch:
+> 3. Why users switch:there are many Payment Gateway service providers and banks providing the service and enhanced features are competitive.
 
 ---
 
