@@ -74,4 +74,12 @@ Better conversion rates, lower costs, faster integration, and tighter ecosystem 
 <!-- One line: what's the single biggest strategic risk? -->  If AI platforms like OpenAI or ecosystems like Stripe control the agent layer, they can commoditise Worldpay into a replaceable backend payment processor.
 
 ## Confidence Level
-<!-- H / M / L — how confident are you in this bet after the diagnostic? -->
+<!-- H / M / L — how confident are you in this bet after the diagnostic? --> Confidence Level: H (High)
+
+👉 The risk is structural, not speculative:
+
+AI platforms like OpenAI already control user interaction
+Payment ecosystems like Stripe are vertically integrating fast
+And Worldpay sits downstream (execution layer), which is historically where commoditisation happens
+
+👉 This isn’t a “maybe”—it’s the default direction of the market unless actively countered.
